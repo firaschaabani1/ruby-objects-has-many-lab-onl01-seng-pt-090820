@@ -8,3 +8,4 @@ class Artist
     @name = name
     @songs = Song.all
   end
+  
