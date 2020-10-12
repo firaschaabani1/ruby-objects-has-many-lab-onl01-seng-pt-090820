@@ -19,4 +19,6 @@ class Author
     @@post_count += 1
   end
   def return_number-posts (post)
+    puts post-count
+  end
 end
